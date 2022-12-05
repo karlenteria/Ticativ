@@ -1,2 +1,2 @@
 # ticativ
-An ecommerce web application for arts made using MERN stack
+An Ecommerce web application using MERN stack

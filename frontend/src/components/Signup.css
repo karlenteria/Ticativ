@@ -1,0 +1,39 @@
+.registerPagePhoto{
+    background-image: url('../assets/signup00.svg');
+    /* background-color: white; */
+    height:100vh;
+    background-size:cover;
+}
+.login-form-container{
+    width: 100%;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+    height:100vh;
+}
+.login-form-container label,
+.login-form-container input,
+.login-form-container button{
+    padding:10px;
+    margin:10px;
+    border-radius: 5px;
+}
+
+.login-form-container input{
+    background-color: transparent;
+    /* border-color: #F78104; */
+}
+
+.login-form-container button{
+    background-color:#008080;
+    width: 150px;
+    color: white;
+}
+.login-form-container button:hover{
+    background-color:#F78104;
+}
+::placeholder { 
+    color: black;
+    opacity: 1;
+  }

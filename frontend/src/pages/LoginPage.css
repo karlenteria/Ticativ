@@ -1,0 +1,79 @@
+.login__logo {
+  display: flex;
+  width: 100%;
+
+  justify-content: center;
+}
+
+.login__logo > img {
+  height: 100px;
+  margin: 15px;
+  display: flex;
+  align-items: center;
+}
+.login__page {
+  display: flex;
+  align-items: center;
+}
+.login__left {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.login__right {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+  margin-top: 5px;
+  position: relative;
+  top: 10px;
+}
+.login__right > .btn {
+  position: relative;
+  left: 98px;
+  width: 30%;
+}
+.btn {
+  margin: 27px 10px;
+  padding: 10px;
+  width: 25%;
+  background-color: teal;
+}
+.socials {
+  display: inline-block;
+  width: 100%;
+}
+.socials > .btn-lg {
+  width: 197px;
+}
+.socials > p {
+  position: relative;
+  left: 10px;
+  top: 40px;
+}
+.form-control {
+  width: 80%;
+}
+input {
+  padding: 15px;
+}
+.login__container {
+  position: relative;
+  left: 10%;
+  margin-top: 50px;
+}
+.log__sign {
+  display: flex;
+  position: relative;
+  left: 88px;
+  width: 100%;
+}
+.log__sign > a {
+  width: 100%;
+}
+
+.log__sign > .btn {
+  width: 234px;
+}

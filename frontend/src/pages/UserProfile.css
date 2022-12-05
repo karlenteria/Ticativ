@@ -1,0 +1,8 @@
+.container > .header-profile {
+  position: relative;
+  top: 10px;
+}
+.body-image {
+  width: 110px;
+  height: 110px;
+}

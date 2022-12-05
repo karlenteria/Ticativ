@@ -1,0 +1,18 @@
+div.addProduct {
+  margin: auto;
+  max-width: 768px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+img.uploadImage {
+  height: 300px;
+}
+.form__product {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.textarea {
+  height: 50px;
+}
